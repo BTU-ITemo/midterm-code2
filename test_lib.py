@@ -1,4 +1,4 @@
-# 14163168831053430341
+# pytest_passed_black_passed
 from lib import QuadraticEquationSolver
 from pytest import approx, raises
 
